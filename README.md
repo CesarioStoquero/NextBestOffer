@@ -1,4 +1,4 @@
-# 🏦 Next Best Offer - Recomendador bancário com IA
+# 🏦 Next-Best-Offer - Recomendador bancário com IA
 
 [![CI](https://github.com/CesarioStoquero/next-best-offer/actions/workflows/ci.yml/badge.svg)](https://github.com/CesarioStoquero/next-best-offer/actions/workflows/ci.yml)
 ![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-4.22-FF6F00?logo=tensorflow&logoColor=white)
