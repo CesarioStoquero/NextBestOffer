@@ -4,7 +4,6 @@
 ![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-4.22-FF6F00?logo=tensorflow&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES2023-F7DF1E?logo=javascript&logoColor=black)
 ![Node](https://img.shields.io/badge/testes-node%3Atest-339933?logo=node.js&logoColor=white)
-![License](https://img.shields.io/badge/licen%C3%A7a-MIT-blue)
 
 Recomenda o **próximo produto bancário** (cartão, investimento, seguro, crédito, previdência) para cada cliente com uma **rede neural treinada no próprio navegador**, e só oferece o que o cliente **pode** contratar: respeita **suitability** e **renda mínima**.
 
