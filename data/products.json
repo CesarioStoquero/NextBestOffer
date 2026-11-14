@@ -1,0 +1,114 @@
+[
+  {
+    "id": "cc-essencial",
+    "name": "Cartão Essencial",
+    "category": "cartao",
+    "risk": 1,
+    "monthlyFee": 0,
+    "minimumMonthlyIncome": 1500
+  },
+  {
+    "id": "cc-gold",
+    "name": "Cartão Gold",
+    "category": "cartao",
+    "risk": 1,
+    "monthlyFee": 19.9,
+    "minimumMonthlyIncome": 4000
+  },
+  {
+    "id": "cc-black",
+    "name": "Cartão Black",
+    "category": "cartao",
+    "risk": 1,
+    "monthlyFee": 59.9,
+    "minimumMonthlyIncome": 15000
+  },
+  {
+    "id": "inv-cdb",
+    "name": "CDB Liquidez Diária",
+    "category": "investimento",
+    "risk": 1,
+    "monthlyFee": 0,
+    "minimumMonthlyIncome": 0
+  },
+  {
+    "id": "inv-tesouro",
+    "name": "Tesouro IPCA+",
+    "category": "investimento",
+    "risk": 1,
+    "monthlyFee": 0,
+    "minimumMonthlyIncome": 0
+  },
+  {
+    "id": "inv-multimercado",
+    "name": "Fundo Multimercado",
+    "category": "investimento",
+    "risk": 2,
+    "monthlyFee": 0,
+    "minimumMonthlyIncome": 3000
+  },
+  {
+    "id": "inv-acoes",
+    "name": "Fundo de Ações",
+    "category": "investimento",
+    "risk": 3,
+    "monthlyFee": 0,
+    "minimumMonthlyIncome": 5000
+  },
+  {
+    "id": "inv-cripto",
+    "name": "Fundo Cripto",
+    "category": "investimento",
+    "risk": 3,
+    "monthlyFee": 0,
+    "minimumMonthlyIncome": 8000
+  },
+  {
+    "id": "seg-vida",
+    "name": "Seguro de Vida",
+    "category": "seguro",
+    "risk": 1,
+    "monthlyFee": 29.9,
+    "minimumMonthlyIncome": 2000
+  },
+  {
+    "id": "seg-residencial",
+    "name": "Seguro Residencial",
+    "category": "seguro",
+    "risk": 1,
+    "monthlyFee": 24.9,
+    "minimumMonthlyIncome": 3000
+  },
+  {
+    "id": "emp-consignado",
+    "name": "Crédito Consignado",
+    "category": "emprestimo",
+    "risk": 1,
+    "monthlyFee": 0,
+    "minimumMonthlyIncome": 1500
+  },
+  {
+    "id": "emp-imobiliario",
+    "name": "Financiamento Imobiliário",
+    "category": "emprestimo",
+    "risk": 2,
+    "monthlyFee": 0,
+    "minimumMonthlyIncome": 10000
+  },
+  {
+    "id": "prev-pgbl",
+    "name": "Previdência PGBL",
+    "category": "previdencia",
+    "risk": 2,
+    "monthlyFee": 0,
+    "minimumMonthlyIncome": 6000
+  },
+  {
+    "id": "prev-vgbl",
+    "name": "Previdência VGBL",
+    "category": "previdencia",
+    "risk": 1,
+    "monthlyFee": 0,
+    "minimumMonthlyIncome": 2500
+  }
+]

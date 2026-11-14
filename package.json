@@ -1,0 +1,14 @@
+{
+  "name": "next-best-offer",
+  "version": "1.0.0",
+  "description": "Recomendador de produtos bancários com TensorFlow.js no navegador, respeitando suitability e renda mínima",
+  "type": "module",
+  "scripts": {
+    "start": "npx --yes http-server -c-1 -p 3000 .",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "license": "MIT"
+}

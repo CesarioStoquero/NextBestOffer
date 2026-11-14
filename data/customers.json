@@ -1,0 +1,490 @@
+[
+  {
+    "id": 1,
+    "name": "Ana Alves",
+    "age": 61,
+    "monthlyIncome": 2360.0,
+    "riskProfile": 1,
+    "productIds": [
+      "cc-essencial",
+      "inv-cdb",
+      "seg-vida"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Bruno Lima",
+    "age": 23,
+    "monthlyIncome": 1660.0,
+    "riskProfile": 1,
+    "productIds": [
+      "cc-essencial"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Carla Araújo",
+    "age": 49,
+    "monthlyIncome": 25210.0,
+    "riskProfile": 2,
+    "productIds": [
+      "cc-black",
+      "inv-multimercado",
+      "seg-vida",
+      "prev-vgbl"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Diego Ribeiro",
+    "age": 45,
+    "monthlyIncome": 2700.0,
+    "riskProfile": 2,
+    "productIds": [
+      "cc-essencial",
+      "inv-tesouro",
+      "seg-vida",
+      "prev-vgbl"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Eduarda Ribeiro",
+    "age": 35,
+    "monthlyIncome": 2590.0,
+    "riskProfile": 2,
+    "productIds": [
+      "cc-essencial",
+      "prev-vgbl"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Felipe Carvalho",
+    "age": 61,
+    "monthlyIncome": 3620.0,
+    "riskProfile": 1,
+    "productIds": [
+      "cc-essencial",
+      "seg-vida"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Gabriela Souza",
+    "age": 35,
+    "monthlyIncome": 1980.0,
+    "riskProfile": 2,
+    "productIds": [
+      "cc-essencial"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Henrique Carvalho",
+    "age": 62,
+    "monthlyIncome": 13980.0,
+    "riskProfile": 3,
+    "productIds": [
+      "cc-gold",
+      "inv-acoes",
+      "seg-vida",
+      "emp-consignado"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Isabela Souza",
+    "age": 30,
+    "monthlyIncome": 32900.0,
+    "riskProfile": 2,
+    "productIds": [
+      "cc-black",
+      "seg-residencial"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "João Ferreira",
+    "age": 39,
+    "monthlyIncome": 10330.0,
+    "riskProfile": 1,
+    "productIds": [
+      "inv-cdb",
+      "inv-tesouro"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Larissa Lima",
+    "age": 44,
+    "monthlyIncome": 3620.0,
+    "riskProfile": 2,
+    "productIds": [
+      "cc-essencial",
+      "inv-tesouro",
+      "inv-multimercado",
+      "prev-vgbl"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Marcos Souza",
+    "age": 57,
+    "monthlyIncome": 2400.0,
+    "riskProfile": 1,
+    "productIds": [
+      "inv-cdb",
+      "inv-tesouro"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Natália Nunes",
+    "age": 31,
+    "monthlyIncome": 6710.0,
+    "riskProfile": 2,
+    "productIds": [
+      "inv-multimercado",
+      "seg-residencial"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Otávio Alves",
+    "age": 25,
+    "monthlyIncome": 7690.0,
+    "riskProfile": 2,
+    "productIds": [
+      "cc-essencial",
+      "inv-cdb",
+      "inv-tesouro",
+      "inv-multimercado"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Paula Mendes",
+    "age": 67,
+    "monthlyIncome": 27150.0,
+    "riskProfile": 1,
+    "productIds": [
+      "cc-black",
+      "inv-cdb",
+      "inv-tesouro",
+      "seg-vida"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Rafael Martins",
+    "age": 27,
+    "monthlyIncome": 1800.0,
+    "riskProfile": 1,
+    "productIds": [
+      "cc-essencial",
+      "inv-cdb"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Sofia Carvalho",
+    "age": 38,
+    "monthlyIncome": 13470.0,
+    "riskProfile": 3,
+    "productIds": [
+      "inv-cdb",
+      "inv-acoes",
+      "seg-residencial",
+      "emp-imobiliario"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Thiago Carvalho",
+    "age": 31,
+    "monthlyIncome": 9910.0,
+    "riskProfile": 1,
+    "productIds": [
+      "seg-residencial"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Úrsula Gomes",
+    "age": 24,
+    "monthlyIncome": 28180.0,
+    "riskProfile": 1,
+    "productIds": [
+      "cc-essencial",
+      "cc-black",
+      "seg-residencial"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Vinícius Alves",
+    "age": 64,
+    "monthlyIncome": 4800.0,
+    "riskProfile": 3,
+    "productIds": [
+      "cc-gold",
+      "inv-cdb",
+      "seg-vida",
+      "prev-vgbl"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Beatriz Carvalho",
+    "age": 37,
+    "monthlyIncome": 10260.0,
+    "riskProfile": 2,
+    "productIds": [
+      "inv-cdb",
+      "seg-residencial",
+      "emp-imobiliario"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Caio Pereira",
+    "age": 36,
+    "monthlyIncome": 8260.0,
+    "riskProfile": 2,
+    "productIds": [
+      "inv-tesouro"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Daniela Nunes",
+    "age": 27,
+    "monthlyIncome": 16900.0,
+    "riskProfile": 1,
+    "productIds": [
+      "cc-black",
+      "inv-cdb"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Enzo Ferreira",
+    "age": 38,
+    "monthlyIncome": 1620.0,
+    "riskProfile": 2,
+    "productIds": [
+      "cc-essencial"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Fernanda Rocha",
+    "age": 28,
+    "monthlyIncome": 2950.0,
+    "riskProfile": 2,
+    "productIds": [
+      "cc-essencial"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Gustavo Martins",
+    "age": 23,
+    "monthlyIncome": 8100.0,
+    "riskProfile": 1,
+    "productIds": [
+      "cc-gold"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Helena Gomes",
+    "age": 32,
+    "monthlyIncome": 9970.0,
+    "riskProfile": 2,
+    "productIds": [
+      "cc-gold",
+      "inv-multimercado",
+      "prev-pgbl"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Igor Alves",
+    "age": 33,
+    "monthlyIncome": 13820.0,
+    "riskProfile": 3,
+    "productIds": [
+      "inv-multimercado",
+      "inv-cripto",
+      "emp-imobiliario",
+      "prev-pgbl"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Juliana Costa",
+    "age": 37,
+    "monthlyIncome": 3660.0,
+    "riskProfile": 3,
+    "productIds": [
+      "cc-essencial"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Kauã Nunes",
+    "age": 37,
+    "monthlyIncome": 1940.0,
+    "riskProfile": 1,
+    "productIds": [
+      "cc-essencial",
+      "inv-cdb"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Letícia Pereira",
+    "age": 41,
+    "monthlyIncome": 38920.0,
+    "riskProfile": 2,
+    "productIds": [
+      "cc-black",
+      "inv-multimercado",
+      "seg-residencial",
+      "emp-imobiliario",
+      "prev-pgbl",
+      "prev-vgbl"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Mateus Gomes",
+    "age": 21,
+    "monthlyIncome": 6320.0,
+    "riskProfile": 2,
+    "productIds": [
+      "cc-gold",
+      "inv-cdb"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Nicole Pereira",
+    "age": 42,
+    "monthlyIncome": 2870.0,
+    "riskProfile": 2,
+    "productIds": [
+      "cc-essencial",
+      "inv-cdb",
+      "inv-tesouro"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Pedro Nunes",
+    "age": 25,
+    "monthlyIncome": 14050.0,
+    "riskProfile": 2,
+    "productIds": [
+      "cc-gold",
+      "inv-cdb",
+      "inv-tesouro"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Renata Martins",
+    "age": 65,
+    "monthlyIncome": 18290.0,
+    "riskProfile": 1,
+    "productIds": [
+      "cc-black"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Samuel Araújo",
+    "age": 53,
+    "monthlyIncome": 12180.0,
+    "riskProfile": 1,
+    "productIds": [
+      "cc-gold",
+      "inv-cdb",
+      "inv-tesouro"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Tatiana Ferreira",
+    "age": 38,
+    "monthlyIncome": 12870.0,
+    "riskProfile": 1,
+    "productIds": [
+      "inv-cdb",
+      "inv-tesouro",
+      "seg-residencial"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Vitor Lopes",
+    "age": 42,
+    "monthlyIncome": 18300.0,
+    "riskProfile": 1,
+    "productIds": [
+      "inv-cdb",
+      "seg-residencial",
+      "prev-vgbl"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Yasmin Alves",
+    "age": 45,
+    "monthlyIncome": 11380.0,
+    "riskProfile": 2,
+    "productIds": [
+      "cc-gold",
+      "prev-vgbl"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Lucas Lopes",
+    "age": 46,
+    "monthlyIncome": 27070.0,
+    "riskProfile": 1,
+    "productIds": [
+      "cc-black",
+      "inv-cdb",
+      "inv-tesouro",
+      "seg-vida"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Marina Teixeira",
+    "age": 24,
+    "monthlyIncome": 4200,
+    "riskProfile": 2,
+    "productIds": []
+  },
+  {
+    "id": 42,
+    "name": "Roberto Castro",
+    "age": 52,
+    "monthlyIncome": 21000,
+    "riskProfile": 1,
+    "productIds": []
+  },
+  {
+    "id": 43,
+    "name": "Alice Moreira",
+    "age": 33,
+    "monthlyIncome": 12500,
+    "riskProfile": 3,
+    "productIds": []
+  }
+]
