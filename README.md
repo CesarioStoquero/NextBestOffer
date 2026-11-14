@@ -84,6 +84,17 @@ Avaliação **leave-one-out** (esconder 1 produto de cada cliente e verificar se
 
 > Resultado de uma rodada; varia um pouco a cada treino. Dataset pequeno e fictício.
 
+## 📚 Conteúdos aplicados
+
+Bloco 1 · Fundamentos de Machine Learning
+
+| Conteúdo | Onde aparece no projeto |
+|---|---|
+| ML, Deep Learning e IA: a base | Troca de regras escritas à mão por um modelo que aprende com o histórico de contratações |
+| Rede neural do zero (tensores, treino, previsão) | Rede `64 → 32 → 1 (sigmoid)` com `binaryCrossentropy` e Adam em `src/workers` |
+| Deep Learning: sistema de recomendação | Normalização, one-hot com pesos, cliente como média da carteira e ranking por probabilidade em `src/ml` |
+| Web ML: IA rodando no navegador | TensorFlow.js num Web Worker, com `tf.tidy` para liberar memória |
+
 ## ▶️ Rodando localmente
 
 Pré-requisito: **Node.js 22+**
