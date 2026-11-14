@@ -1,6 +1,6 @@
-# 🏦 Next-Best-Offer - Recomendador bancário com IA
+# 🏦 NextBestOffer - Recomendador bancário com IA
 
-[![CI](https://github.com/CesarioStoquero/next-best-offer/actions/workflows/ci.yml/badge.svg)](https://github.com/CesarioStoquero/next-best-offer/actions/workflows/ci.yml)
+[![CI](https://github.com/CesarioStoquero/NextBestOffer/actions/workflows/ci.yml/badge.svg)](https://github.com/CesarioStoquero/NextBestOffer/actions/workflows/ci.yml)
 ![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-4.22-FF6F00?logo=tensorflow&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES2023-F7DF1E?logo=javascript&logoColor=black)
 ![Node](https://img.shields.io/badge/testes-node%3Atest-339933?logo=node.js&logoColor=white)
@@ -100,8 +100,8 @@ Bloco 1 · Fundamentos de Machine Learning
 Pré-requisito: **Node.js 22+**
 
 ```bash
-git clone https://github.com/CesarioStoquero/next-best-offer.git
-cd next-best-offer
+git clone https://github.com/CesarioStoquero/NextBestOffer.git
+cd NextBestOffer
 npm start
 ```
 
