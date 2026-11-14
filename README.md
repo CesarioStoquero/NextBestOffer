@@ -1,4 +1,4 @@
-# 🏦 Next Best Offer · Recomendador bancário com IA
+# 🏦 Next Best Offer - Recomendador bancário com IA
 
 [![CI](https://github.com/CesarioStoquero/next-best-offer/actions/workflows/ci.yml/badge.svg)](https://github.com/CesarioStoquero/next-best-offer/actions/workflows/ci.yml)
 ![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-4.22-FF6F00?logo=tensorflow&logoColor=white)
@@ -96,25 +96,6 @@ npm start
 ```
 
 Abra **http://localhost:3000**. O modelo treina sozinho ao carregar (cerca de 30 épocas).
-
-## ✅ Testes
-
-```bash
-npm test
-```
-
-Cobrem as 3 regras de elegibilidade (sucesso e bloqueio), o encoder (one-hot, carteira, cold start, montagem do treino) e o ranking de popularidade.
-
-## 🗺️ Roadmap
-
-- [ ] Salvar o modelo treinado no IndexedDB e evitar retreino a cada visita
-- [ ] Gráfico da loss por época com tfjs-vis
-- [ ] Explicar a recomendação (quais atributos mais pesaram)
-- [ ] Novas regras: limite de comprometimento de renda e restrição por idade em previdência
-
-## 🎓 Inspirado em
-
-Projeto do Bloco 1 da minha trilha de estudos baseada na pós-graduação **Engenharia de IA Aplicada (UNIPDS)**, a partir do exemplo [ecommerce-recomendations](https://github.com/unipds-engenharia-de-ia-aplicada/engenharia-de-software-com-ia-aplicada/tree/main/modulo01-fundamentos-de-ia-e-llms-para-programadores/exemplo-01-ecommerce-recomendations-template). O domínio bancário, as regras de negócio e o código são originais.
 
 ## 👤 Autor
 
